@@ -60,6 +60,6 @@ Welcome, of course! Open issues, commits, PRs, whatever. Much love sending I am 
 
 If you like this, star it
 
-/*Make sure to read the docs each time before you attempt to withdraw or deposit. Any of these guys can change their rules at any second. And remember, not your keys, not your coins!
+*Make sure to read the docs each time before you attempt to withdraw or deposit. Any of these guys can change their rules at any second. And remember, not your keys, not your coins!
 
 **Due your own due diligence**: repeat this every day while brushing your teeth
