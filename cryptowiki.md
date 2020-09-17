@@ -6,7 +6,7 @@ Do you own due diligence. Not a financial advice. I don't really know what I'm d
 
 ## Contributing
 
-Welcome as f$$k! Open issues, commit PR's. Much love sending I am for you. Stick to the format bro!
+Welcome, of course! Open issues, commits, PRs, whatever. Much love sending I am for you. Stick to the format bro!
 
 ## Table of Conetent
 
@@ -60,6 +60,6 @@ Welcome as f$$k! Open issues, commit PR's. Much love sending I am for you. Stick
 
 If you like this, star it
 
-* Make sure to read the docs each time before you attempt to withdraw or deposit. Any of these guys can change their rules at any second. And remember, not your keys, not your coins!
+/*Make sure to read the docs each time before you attempt to withdraw or deposit. Any of these guys can change their rules at any second. And remember, not your keys, not your coins!
 
 **Due your own due diligence**: repeat this every day while brushing your teeth
