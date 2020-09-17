@@ -54,12 +54,14 @@ Welcome, of course! Open issues, commits, PRs, whatever. Much love sending I am 
 ### Other advice
 
 - Follow cool people on GitHub and see what repos they star
+- Learn about IT
 - Save important links
 - Read while you on the move, in the car, whenever
 - Security is your friend
 
-If you like this, star it
+**Due your own due diligence**: repeat this every day while brushing your teeth. If you like this, star it!
+
+---------
+
 
 *Make sure to read the docs each time before you attempt to withdraw or deposit. Any of these guys can change their rules at any second. And remember, not your keys, not your coins!
-
-**Due your own due diligence**: repeat this every day while brushing your teeth
