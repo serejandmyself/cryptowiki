@@ -4,6 +4,21 @@ Does what it says on the box. A wiki of useful crypto resources to help me make 
 
 Do you own due diligence. Not a financial advice. I don't really know what I'm doing...
 
-### Contributing
+## Contributing
 
 Welcome as f**k! Open issues, commit PR's. Much love sending I am for you.
+
+## Table of Conetent
+
+### Charts
+
+### Social Media
+
+#### Channels and groups
+
+#### Influencers
+
+### Reading resources
+
+### Others
+
