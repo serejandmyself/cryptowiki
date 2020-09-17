@@ -10,9 +10,11 @@ Welcome as f$$k! Open issues, commit PR's. Much love sending I am for you. Stick
 
 ## Table of Conetent
 
-### Charts
+### Charts & Tools
 
-### Trading tools
+#### Charts
+
+#### Tools
 
 - [Astro tools](https://app.astrotools.io/): ETH tools and charts
 - [DEX tools](https://www.dextools.io): Does what it says
