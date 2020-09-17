@@ -29,7 +29,7 @@ Welcome as f$$k! Open issues, commit PR's. Much love sending I am for you. Stick
 
 ##### Telegram
 
-#### Thinkers and coll dudes
+#### Thinkers and cool dudes
 
 ##### Twitter
 
