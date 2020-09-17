@@ -2,7 +2,7 @@
 
 Does what it says on the box. A wiki of useful crypto resources to help me make decisions in regard to researching, trading and/or investing into crypto.
 
-Do you own due diligence. Not a financial advice. I don't really know what I'm doing...
+Do you own due diligence. Not a financial advice. I don't really know what I'm doing... If you like this, star it!
 
 ## Contributing
 
@@ -59,7 +59,7 @@ Welcome, of course! Open issues, commits, PRs, whatever. Much love sending I am 
 - Read while you on the move, in the car, whenever
 - Security is your friend
 
-**Due your own due diligence**: repeat this every day while brushing your teeth. If you like this, star it!
+**Due your own due diligence**: repeat this every day while brushing your teeth. 
 
 ---------
 
