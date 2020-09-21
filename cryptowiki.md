@@ -93,6 +93,9 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 #### Podcasts
 
 - [Citizen Cosmos](https://www.citizencosmos.space/): Discover the masterminds of the Cosmos blockchain ecosystem and web3
+- [Epicenter](https://epicenter.tv/): The first crypto podcast
+- [Unchained](https://unchainedpodcast.com/): The no-hype resource
+- [ Zero Knowledge](https://www.zeroknowledge.fm/): About zero knowledge research and the decentralised web 
 
 #### Telegram
 
