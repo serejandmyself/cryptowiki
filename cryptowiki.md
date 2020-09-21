@@ -10,6 +10,22 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 ## Table of Content
 
+- [Charts & Tools](#charts--tools)
+  - [Charts](#charts)
+  - [Tools](#tools)
+- [No KYC/AML](#no-kycaml)
+- [Social](#social)
+  - [BLogs](#blogs-)
+  - [Discord](#disocrd)
+  - [Forums](#forums)
+  - [Podcasts](#podcasts)
+  - [Telegram](#telegram)
+  - [Twitter](#twitter)
+  - [Youtube](#youtube)
+ - [Wikis & Learning]()
+ - [Other](#other)
+ 
+
 ### Charts & Tools
 
 #### Charts
@@ -44,6 +60,11 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Staking rewards](https://www.stakingrewards.com/earn/cosmos): Staking metrics comparison
 - [Token Viz](https://tokenviz.io/): Vizualizing token sets
 
+### No KYC/AML*
+
+- [3 commas](https://3commas.io/): Crypto trading
+- [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS
+
 ### Social
 
 #### Blogs +
@@ -54,7 +75,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Placeholder](https://www.placeholder.vc/): A web3 VC blog
 - [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
 
-##### Discord
+#### Discord
 
 - [CryptoOneStop](https://www.youtube.com/watch?v=xv5bRn_FPKc): A server about DeFi primarily, but not limited to. The link is in the video descritpion
 
@@ -66,9 +87,9 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 - [Citizen Cosmos](https://www.citizencosmos.space/): Discover the masterminds of the Cosmos blockchain ecosystem and web3
 
-##### Telegram
+#### Telegram
 
-##### Twitter
+#### Twitter
 
 - [@aantonop](https://twitter.com/aantonop): Self-explanotory 
 - [@adam3us](https://twitter.com/adam3us): Cypherpunk, cryptographer
@@ -155,7 +176,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg): Useful tutorials, primarily ETH-based
 - [The CryptoDad](https://www.youtube.com/channel/UC68x_TIzqCtF69fYl2_kl3w): Useful guides for everything
 
-### Wikis
+### Wikis and Learning
 
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
 - [DAPP Uni](https://www.dappuniversity.com/): A lot of useful info on crypto
@@ -165,12 +186,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
 
-### No KYC/AML*
-
-- [3 commas](https://3commas.io/): Crypto trading
-- [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS
-
-### Other advice
+### Other
 
 - Follow cool people on GitHub and see what repos they star
 - Learn IT
