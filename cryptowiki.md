@@ -74,6 +74,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 - [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
 - [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
+- [Interchain foundation blog](https://blog.cosmos.network/@interchain_io): Interchain foundation blog
 - [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
 - [Placeholder](https://www.placeholder.vc/): A web3 VC blog
 - [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
@@ -180,16 +181,19 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Andreas Antonopolous](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): Self-explanatory
 - [Bob Loukas](https://www.youtube.com/channel/UC0zGwzu0zzCImC1BwPuWyXQ): A trader and an investor touhing on crypto, primarily BTC and cycles
 - [CryptoOneStop](https://www.youtube.com/channel/UCNgGAqSgBp8-qxY51u1-_MA): Focus on the most relevant news in the digital assets space
+- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ): Blokchain tutorials
 - [DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg): Useful tutorials, primarily ETH-based
 - [The CryptoDad](https://www.youtube.com/channel/UC68x_TIzqCtF69fYl2_kl3w): Useful guides for everything
 
 ### Wikis and Learning
 
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
+- [Berkley courses](https://blockchain.berkeley.edu/courses/): Does what it says
 - [DAPP Uni](https://www.dappuniversity.com/): A lot of useful info on crypto
 - [DeFi prime](https://defiprime.com): DeFi wiki
 - [DeFi watch](https://defiwatch.net/): DeFi wiki
 - [Learning online](https://learnthings.online/): Learning materials
+- [Proto School](https://proto.school/#/tutorials/): IPFS school
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
 
