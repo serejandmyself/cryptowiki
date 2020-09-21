@@ -2,11 +2,11 @@
 
 Does what it says on the box. A collection of useful crypto resources to help me make decisions in regard to crypto.
 
-Do you own due diligence. Not financial advice. I don't really know what I'm doing... If you like this, star it!
+Do you own due diligence. Not financial advice. I don't really know what I'm doing...
 
 ## Contributing
 
-Welcome, of course! Open issues, commits, PRs, whatever. Much love sending I am for you. Stick to the format bro!
+Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the format or make it better!
 
 ## Table of Content
 
