@@ -152,7 +152,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [@NickSzabo4](https://twitter.com/NickSzabo4): Self-explanotory 
 - [@Noobgettinrich](https://twitter.com/Noobgettinrich): Alts
 - [@notsofast](https://twitter.com/notsofast): Altcoin miner
-- [@oleganza](Oleg Andreev): Author of ZkVM, Gitbox, CoreBitcoin and BTCRuby
+- [@oleganza](https://twitter.com/oleganza): Author of ZkVM, Gitbox, CoreBitcoin and BTCRuby
 - [@panekkkk](https://twitter.com/panekkkk): Jacob Franek, Co-founder of coinmetrics
 - [@pcmonk](https://twitter.com/pcmonk): Software Engineer at Urbit
 - [@PermabullNino](https://twitter.com/PermabullNino): Crypto
