@@ -8,6 +8,8 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 
 Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the format or make it better!
 
+---------
+
 ## Table of Content
 
 - [Charts & Tools](#charts--tools)
@@ -22,9 +24,10 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
   - [Telegram](#telegram)
   - [Twitter](#twitter)
   - [Youtube](#youtube)
- - [Wikis & Learning]()
+ - [Wikis & Learning](#wikis-and-learning)
  - [Other](#other)
- 
+
+---------
 
 ### Charts & Tools
 
@@ -88,6 +91,10 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Citizen Cosmos](https://www.citizencosmos.space/): Discover the masterminds of the Cosmos blockchain ecosystem and web3
 
 #### Telegram
+
+- [DeFi France](https://t.me/defifrance): DeFi Alpha 
+- [GemFriend Feed](https://t.me/gemfriendfeed): Useful infographics
+- [The OTC Room](https://t.me/otcroom): Self-explanatory
 
 #### Twitter
 
