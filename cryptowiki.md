@@ -44,17 +44,29 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Staking rewards](https://www.stakingrewards.com/earn/cosmos): Staking metrics comparison
 - [Token Viz](https://tokenviz.io/): Vizualizing token sets
 
-### Social Media
+### Social
 
-#### Channels & groups
+#### Blogs +
+
+- [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
+- [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
+- [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
+- [Placeholder](https://www.placeholder.vc/): A web3 VC blog
+- [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
 
 ##### Discord
 
-- [CryptoOneStop](https://www.youtube.com/watch?v=xv5bRn_FPKc): A server about DeFi primarily, but not limited to. The link is in the video descritpion.
+- [CryptoOneStop](https://www.youtube.com/watch?v=xv5bRn_FPKc): A server about DeFi primarily, but not limited to. The link is in the video descritpion
+
+#### Forums
+
+- [Uniswap](https://gov.uniswap.org/): Uniswap governance forum
+
+#### Podcasts
+
+- [Citizen Cosmos](https://www.citizencosmos.space/): Discover the masterminds of the Cosmos blockchain ecosystem and web3
 
 ##### Telegram
-
-#### Thinkers and cool dudes
 
 ##### Twitter
 
@@ -135,12 +147,6 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [@VitalikButerin](https://twitter.com/VitalikButerin): Self-explanatory
 - [@zcpeng](https://twitter.com/zcpeng): CEO tendermint
 
-### Blogs, podcasts, etc
-
-#### Podcasts
-
-- [Citizen Cosmos](https://www.citizencosmos.space/): Discover the masterminds of the Cosmos blockchain ecosystem and web3
-
 #### Youtube
 
 - [Andreas Antonopolous](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): Self-explanatory
@@ -149,20 +155,15 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [DeFi Dad](https://www.youtube.com/channel/UCatItl6C7wJp9txFMbXbSTg): Useful tutorials, primarily ETH-based
 - [The CryptoDad](https://www.youtube.com/channel/UC68x_TIzqCtF69fYl2_kl3w): Useful guides for everything
 
-#### Reading, blogs and wikis
+### Wikis
 
-- [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
 - [DAPP Uni](https://www.dappuniversity.com/): A lot of useful info on crypto
 - [DeFi prime](https://defiprime.com): DeFi wiki
 - [DeFi watch](https://defiwatch.net/): DeFi wiki
-- [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
 - [Learning online](https://learnthings.online/): Learning materials
-- [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
-- [Placeholder](https://www.placeholder.vc/): A web3 VC blog
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
-- [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
 
 ### No KYC/AML*
 
