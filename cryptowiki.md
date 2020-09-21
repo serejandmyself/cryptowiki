@@ -73,11 +73,14 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 #### Blogs +
 
 - [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
+- [Ether foundation blog](https://blog.ethereum.org/): Ether foundation
 - [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
 - [Interchain foundation blog](https://blog.cosmos.network/@interchain_io): Interchain foundation blog
+- [IPFS blog](https://blog.ipfs.io/): IPFS 
 - [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
 - [Placeholder](https://www.placeholder.vc/): A web3 VC blog
 - [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
+- [Web3 foundation blog](https://medium.com/web3foundation): Web3 foundation blog
 
 #### Discord
 
