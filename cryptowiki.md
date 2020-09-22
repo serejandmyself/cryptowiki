@@ -1,6 +1,6 @@
 # Cryptowiki
 
-Does what it says on the box. A collection of useful crypto resources to help me make decisions in regard to crypto.
+Does what it says on the box. A collection of useful crypto resources to help me make decisions with regard to crypto.
 
 Do you own due diligence. Not financial advice. I don't really know what I'm doing...
 
