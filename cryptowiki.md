@@ -73,6 +73,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 #### Blogs +
 
 - [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
+- [Cosmos Network blog](https://blog.cosmos.network/): A blog about the Cosmos ecosystem and web3 tech
 - [Ether foundation blog](https://blog.ethereum.org/): Ether foundation
 - [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
 - [Interchain foundation blog](https://blog.cosmos.network/@interchain_io): Interchain foundation blog
