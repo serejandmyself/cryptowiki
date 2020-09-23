@@ -198,12 +198,22 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 ### Wikis and Learning
 
+- [A16z crypto school](https://github.com/web3machines/a16z-css): Crypto Startup School by a16z 
+- [Awesome blockchain](https://github.com/imbaniac/awesome-blockchain): Curated list of blockchain services and exchanges
+- [Awesome ETH](https://github.com/ttumiel/Awesome-Ethereum): A Curated List of Awesome Ethereum Resources 
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
 - [Berkley courses](https://blockchain.berkeley.edu/courses/): Does what it says
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai): A curated list of Blockchain projects for AI & ML
 - [DAPP Uni](https://www.dappuniversity.com/): A lot of useful info on crypto
+- [Cybernomics](https://github.com/xhipster/cybernomics): A huge collection of papers on crypto economics, supercomputers, etc
+- [Cryptolist](https://github.com/coinpride/CryptoList): Curated collection of blockchain & cryptocurrency resources
+- [DAO research materials](https://github.com/DAOresearch/awesome-daos): An awesome list for DAO stuff 
 - [DeFi prime](https://defiprime.com): DeFi wiki
 - [DeFi watch](https://defiwatch.net/): DeFi wiki
+- [James Lopp website](https://www.lopp.net/): Learn blockchains 
 - [Learning online](https://learnthings.online/): Learning materials
+- [LN book](https://github.com/lnbook/lnbook): Mastering the Lightning Network (LN) 
+- [Open blockchains](https://github.com/openblockchains/awesome-blockchains): A collection about awesome blockchains
 - [Proto School](https://proto.school/#/tutorials/): IPFS school
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
