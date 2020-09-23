@@ -15,6 +15,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Charts & Tools](#charts--tools)
   - [Charts](#charts)
   - [Tools](#tools)
+  - [Tools that require building](#tool-that-need-building)
 - [No KYC/AML](#no-kycaml)
 - [Social](#social)
   - [BLogs](#blogs-)
@@ -62,6 +63,9 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Pools FYI](https://pools.fyi/): ETH pool comparison
 - [Staking rewards](https://www.stakingrewards.com/earn/cosmos): Staking metrics comparison
 - [Token Viz](https://tokenviz.io/): Vizualizing token sets
+
+#### Tools that need building
+- [DeFi tokens wiki](https://github.com/defi-wikis/defi-tokens-wiki): Metadata on all DeFi tokens 
 
 ### No KYC/AML*
 
