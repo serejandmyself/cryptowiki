@@ -15,7 +15,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Charts & Tools](#charts--tools)
   - [Charts](#charts)
   - [Tools](#tools)
-  - [Tools that require building](#tool-that-need-building)
+  - [Tools that need building](#tools-that-need-building)
 - [No KYC/AML](#no-kycaml)
 - [Social](#social)
   - [BLogs](#blogs-)
