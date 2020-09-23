@@ -207,6 +207,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [Proto School](https://proto.school/#/tutorials/): IPFS school
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
+- [Zero knowledge proofs wiki](https://github.com/matter-labs/awesome-zero-knowledge-proofs): A curated list of awesome things related to ZKP 
 
 ### Other
 
