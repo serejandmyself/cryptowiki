@@ -210,6 +210,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [DAO research materials](https://github.com/DAOresearch/awesome-daos): An awesome list for DAO stuff 
 - [DeFi prime](https://defiprime.com): DeFi wiki
 - [DeFi watch](https://defiwatch.net/): DeFi wiki
+- [Ethereum handbook](https://github.com/ethereumbook/ethereumbook): Learn Ethereum
 - [James Lopp website](https://www.lopp.net/): Learn blockchains 
 - [Learning online](https://learnthings.online/): Learning materials
 - [LN book](https://github.com/lnbook/lnbook): Mastering the Lightning Network (LN) 
