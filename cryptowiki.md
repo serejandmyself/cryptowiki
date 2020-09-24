@@ -201,6 +201,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [A16z crypto school](https://github.com/web3machines/a16z-css): Crypto Startup School by a16z 
 - [Awesome blockchain](https://github.com/imbaniac/awesome-blockchain): Curated list of blockchain services and exchanges
 - [Awesome ETH](https://github.com/ttumiel/Awesome-Ethereum): A Curated List of Awesome Ethereum Resources 
+- [Binance academy](https://academy.binance.com/): Surprisingly mega underated
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
 - [Berkley courses](https://blockchain.berkeley.edu/courses/): Does what it says
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai): A curated list of Blockchain projects for AI & ML
