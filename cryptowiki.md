@@ -70,14 +70,26 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 ### No KYC/AML*
 
+(Be uber careful with any of these! Due you own due dilligence before you attempt using it!)
+
 - [1inch exchange](https://1inch.exchange/): DEX aggregator
 - [3 commas](https://3commas.io/): Crypto trading with a shoulder without KYC
 - [Aave](https://app.aave.com/home): Lending and borrowing ETH and tokens
 - [Airswap](https://www.airswap.io/): ETH ecosystem trading OTC 
 - [Binance](https://www.binance.com/en): Don't hate me for it, but its true 
-- [BTC chnage bot](https://t.me/BTC_CHANGE_BOT): Telegram P2P BTC change bot (the link is  
+- [Bitpapa](https://bitpapa.com/): Excnahge BTC and ETH 
+- [Bitzlato](https://bitzlato.com): Exchange BTC and other currencies
+- [BTC chnage bot](https://t.me/BTC_CHANGE_BOT): Telegram P2P BTC change bot
+- [Cryptolocator](https://cryptolocator.com/en/): Another P2P exchange
+- [Garantex](https://garantex.io/): Interface only in Russian 
 - [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS 
 - [Liquality](https://liquality.io/swap/): Cross chain crypto swap 
+- [Local Bitcoin](https://localbitcoins.net/): Self-explanantory
+- [Local coinswap](https://localcoinswap.com/offers/): Another local swap for coins 
+- [Monabey](https://monabey.com/): Only Russian interface 
+- [Paxful](https://paxful.com): Buy and sell BTC
+- [Sky crypto](https://sky-crypto.com/): Exchange BTC and ETH
+- [Totalocin](https://totalcoin.io): Exchange crypto
 - [Uniswap](https://app.uniswap.org/#/swap): Self-explanatory
 
 ### Social
