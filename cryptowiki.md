@@ -50,6 +50,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [CoinGecko](https://www.coingecko.com): Probs the best tool for tracking shit
 - [Coinlib](https://coinlib.io/): Stats and charts
 - [Coin Parpika](https://coinpaprika.com): Good market overview
+- [Cryptocurrency predictions](https://cryptocurrencypriceprediction.com/): For fun
 - [Crypto fear and greed index](https://alternative.me/): Exactly what it says it is
 - [Crypto interest rates](https://docs.google.com/spreadsheets/d/1Y5HONAIHQs2ZlliF-MCkIfdeRhzOu6ZSWJov0NjmhSo/edit#gid=1534349931): A Google comparison table
 - [DeFi pulse](https://defipulse.com/): Self explanatory
@@ -69,8 +70,11 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 ### No KYC/AML*
 
-- [3 commas](https://3commas.io/): Crypto trading
-- [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS
+- [3 commas](https://3commas.io/): Crypto trading with a shoulder without KYC
+- [Airswap](https://www.airswap.io/): ETH ecosystem trading OTC 
+- [Binance](https://www.binance.com/en): Don't hate me for it, but its true 
+- [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS 
+- [Liquality](https://liquality.io/swap/): Cross chain crypto swap 
 
 ### Social
 
