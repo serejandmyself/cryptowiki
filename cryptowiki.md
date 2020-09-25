@@ -104,6 +104,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [IPFS blog](https://blog.ipfs.io/): IPFS 
 - [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
 - [Placeholder](https://www.placeholder.vc/): A web3 VC blog
+- [Unenumerated](https://unenumerated.blogspot.com/): Nick Szabo's blog
 - [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
 - [Web3 foundation blog](https://medium.com/web3foundation): Web3 foundation blog
 
