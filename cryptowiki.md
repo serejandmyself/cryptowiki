@@ -70,11 +70,14 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 
 ### No KYC/AML*
 
+- [1inch exchange](https://1inch.exchange/): DEX aggregator
 - [3 commas](https://3commas.io/): Crypto trading with a shoulder without KYC
+- [Aave](https://app.aave.com/home): Lending and borrowing ETH and tokens
 - [Airswap](https://www.airswap.io/): ETH ecosystem trading OTC 
 - [Binance](https://www.binance.com/en): Don't hate me for it, but its true 
 - [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS 
 - [Liquality](https://liquality.io/swap/): Cross chain crypto swap 
+- [Uniswap](https://app.uniswap.org/#/swap): Self-explanatory
 
 ### Social
 
