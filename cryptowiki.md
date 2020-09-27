@@ -4,6 +4,8 @@ Does what it says on the box. A collection of useful crypto resources to help me
 
 Do you own due diligence. Not financial advice. I don't really know what I'm doing...
 
+> Keep your friends close, your enemies closer, your coins safe and your keys in your underwear...
+
 ## Contributing
 
 Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the format or make it better!
