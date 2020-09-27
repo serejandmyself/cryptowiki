@@ -161,6 +161,7 @@ Issues, commits, PRs, whatever. Much love sending I am for you. Stick to the for
 - [@EtherSchtroumpf](https://twitter.com/EtherSchtroumpf): Macro trends
 - [@factcheckmypost](https://twitter.com/factcheckmypost): Cool dude
 - [@feindura](https://twitter.com/feindura): Author of ERC 20 and ERC 725 
+- [@fifikobayashi](https://twitter.com/fifikobayashi): Software engineer who hates bean sprouts 
 - [@fluffypony](https://twitter.com/fluffypony): Monero
 - [@fomosaurus](https://twitter.com/fomosaurus): Been losing money in crypto since the Mt. Gox and Cryptsy days
 - [@gavinandresen](https://twitter.com/gavinandresen): Cool dude
