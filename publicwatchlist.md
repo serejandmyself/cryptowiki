@@ -1,8 +1,7 @@
-Public Watch List
+# Public Watch List
 
 The List contains interesting, open-source, blockchain projects that are worth watching. The educational information on this list is (probably) highly subjective, contains mistakes, misspells, biased opinions and other bingo-BS.
 
-If you wish to make changes to the file, add or delete a project, or think that you can contribute in any other way, feel free to feel free.
 
 | Project | Link | Group | Class | Score |
 |---------|-------|-------|--------|--------|
