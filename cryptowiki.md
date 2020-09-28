@@ -83,6 +83,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Local Bitcoin](https://localbitcoins.net/): Self-explanantory
 - [Local coinswap](https://localcoinswap.com/offers/): Another local swap for coins 
 - [Monabey](https://monabey.com/): Only Russian interface 
+- [Paraswap](https://paraswap.io/#/): ETH ecosystem swaps
 - [Paxful](https://paxful.com): Buy and sell BTC
 - [Sky crypto](https://sky-crypto.com/): Exchange BTC and ETH
 - [Totalocin](https://totalcoin.io): Exchange crypto
