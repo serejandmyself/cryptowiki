@@ -216,11 +216,13 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 
 ### Wikis and Learning
 
+- [Alexandria](https://coinmarketcap.com/alexandria/): CMC learning portal
 - [A16z crypto school](https://github.com/web3machines/a16z-css): Crypto Startup School by a16z 
 - [Awesome blockchain](https://github.com/imbaniac/awesome-blockchain): Curated list of blockchain services and exchanges
 - [Awesome ETH](https://github.com/ttumiel/Awesome-Ethereum): A Curated List of Awesome Ethereum Resources 
 - [Binance academy](https://academy.binance.com/): Surprisingly mega underated
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
+- [DNT educational portal](https://education.district0x.io/general-topics/): Learn about blockchain and ETH
 - [Berkley courses](https://blockchain.berkeley.edu/courses/): Does what it says
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai): A curated list of Blockchain projects for AI & ML
 - [DAPP Uni](https://www.dappuniversity.com/): A lot of useful info on crypto
