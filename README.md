@@ -9,6 +9,7 @@ Useful shit for (un)certain times:
 
 Other useful rubbish: 
 
+- [Books and presentations](https://github.com/serejandmyself/Books-and-Presentations): Web3 presentations mainly, free to use
 - [Citizen Cosmos](https://www.citizencosmos.space/): My claim to normailty where I co-host a podcast 
 - [Privacy basics](https://github.com/serejandmyself/privacy-basics): Don't mix this up with security 
 - [Programming learning](https://github.com/serejandmyself/Programming-learning): Meh... helps to at least, practise 
