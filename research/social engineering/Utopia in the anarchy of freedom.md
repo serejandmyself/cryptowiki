@@ -1,4 +1,4 @@
-# Utopia of the anarchy of freedom 
+# Utopia in the anarchy of freedom 
 
 ### The issue
 The below outlines a view on the aspects of the modern human protocols; their inability to function properly, and a vision on what can be done to replace them. It is written in free-form flow, somewhat resembling the likes of an unveiling chain of events; hence, it is meant to be read from beginning to end, without skipping any “blocks”. 
