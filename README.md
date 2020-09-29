@@ -15,7 +15,7 @@ Other useful rubbish:
 - [Social engineering](https://github.com/serejandmyself/cryptowiki/tree/master/research/social%20engineering): My take on social engineering
 - [The no bullshit blog](https://serejandmyself.github.io/): My blog. A very subjective point of view on shit 
 
-To add: books and presentations, research, papers(?), other useful crap
+To add: books and presentations
 
 ## Contributing
 
