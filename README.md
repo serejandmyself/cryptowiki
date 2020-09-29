@@ -12,6 +12,7 @@ Other useful rubbish:
 - [Citizen Cosmos](https://www.citizencosmos.space/): My claim to normailty where I co-host a podcast 
 - [Privacy basics](https://github.com/serejandmyself/privacy-basics): Don't mix this up with security 
 - [Programming learning](https://github.com/serejandmyself/Programming-learning): Meh... helps to at least, practise 
+- [Social engineering](https://github.com/serejandmyself/cryptowiki/tree/master/research/social%20engineering): My take on social engineering
 - [The no bullshit blog](https://serejandmyself.github.io/): My blog. A very subjective point of view on shit 
 
 To add: books and presentations, research, papers(?), other useful crap
