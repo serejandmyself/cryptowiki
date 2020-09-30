@@ -62,3 +62,5 @@ The List contains interesting, open-source, blockchain projects that are worth w
 | NuCypher | Security | []() | | | |
 aave, loopring, band, terra, ocean, sia, thor, akro, ampl, nervos, yam, fantom, golem, gnosis, serum, matic, zcoin, handshake, fetch, loki, sand, kadena, kulupu,
 ghst, cartesi, aleph, dero, jrt, anj, sta, idena, myst, deus, 2key, linear, pickle, xamp, orchid
+
+- algorithm
