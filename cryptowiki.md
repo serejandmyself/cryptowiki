@@ -134,6 +134,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [@APompliano](https://twitter.com/APompliano): Co-founder & Partner at Morgan Creek Digital
 - [@AriDavidPaul](https://twitter.com/AriDavidPaul): Cool dude
 - [@ashleighschap](https://twitter.com/ashleighschap): Growth Lead at UniswapProtocol
+- [@bkiepuszewski](https://twitter.com/bkiepuszewski): Cool dude
 - [@Bitfinexed](https://twitter.com/Bitfinexed): Self-explanotory 
 - [@BobLoukas](https://twitter.com/BobLoukas): Trader and investor
 - [@BrianDColwell](https://twitter.com/BrianDColwell): Altcoins and blockchain
