@@ -86,6 +86,8 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Paraswap](https://paraswap.io/#/): ETH ecosystem swaps
 - [Paxful](https://paxful.com): Buy and sell BTC
 - [Sky crypto](https://sky-crypto.com/): Exchange BTC and ETH
+- [StealthEX](https://stealthex.io/): Swap currencies
+- [Swapzone](https://swapzone.io/): Exchnage aggregator that allows to swap
 - [Totalocin](https://totalcoin.io): Exchange crypto
 - [Uniswap](https://app.uniswap.org/#/swap): Self-explanatory
 
