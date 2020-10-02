@@ -226,6 +226,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Awesome blockchain](https://github.com/imbaniac/awesome-blockchain): Curated list of blockchain services and exchanges
 - [Awesome ETH](https://github.com/ttumiel/Awesome-Ethereum): A Curated List of Awesome Ethereum Resources 
 - [Binance academy](https://academy.binance.com/): Surprisingly mega underated
+- [Code with Us](https://cosmos.network/series/code-with-us): Learn to code blockchains
 - [CosmWasm Vimeo account](https://vimeo.com/user109497220): Learn CosmWasm
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
 - [DNT educational portal](https://education.district0x.io/general-topics/): Learn about blockchain and ETH
