@@ -4,13 +4,13 @@
 
 Useful shit for (un)certain times:
 
-- [Cryptowiki](https://github.com/serejandmyself/cryptowiki/blob/master/cryptowiki.md): Useful tools, charts, no kyc resources, people to follow, thigns to learn
-- [Public watch list](https://github.com/serejandmyself/cryptowiki/blob/master/publicwatchlist.md): Self-explantory, highly subjective
+- [Cryptowiki](https://github.com/serejandmyself/cryptowiki/blob/master/cryptowiki.md): Useful tools, charts, no kyc resources, people to follow, things to learn
+- [Public watch list](https://github.com/serejandmyself/cryptowiki/blob/master/publicwatchlist.md): Self-explanatory, highly subjective
 
 Other useful rubbish: 
 
 - [Books and presentations](https://github.com/serejandmyself/Books-and-Presentations): Web3 presentations mainly, free to use
-- [Citizen Cosmos](https://www.citizencosmos.space/): My claim to normailty where I co-host a podcast 
+- [Citizen Cosmos](https://www.citizencosmos.space/): My claim to normality where I co-host a podcast 
 - [Privacy basics](https://github.com/serejandmyself/privacy-basics): Don't mix this up with security 
 - [Programming learning](https://github.com/serejandmyself/Programming-learning): Meh... helps to at least, practise 
 - [Social engineering](https://github.com/serejandmyself/cryptowiki/tree/master/research/social%20engineering): My take on social engineering
