@@ -96,6 +96,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 #### Blogs +
 
 - [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
+- [Cosmos engineering](https://cosmos.network/newsletters/engineering/2020-08/): Cosmos tools engineering newsletter
 - [Cosmos Network blog](https://blog.cosmos.network/): A blog about the Cosmos ecosystem and web3 tech
 - [Ether foundation blog](https://blog.ethereum.org/): Ether foundation
 - [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
