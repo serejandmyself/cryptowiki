@@ -2,6 +2,7 @@
 
 The List contains interesting, open-source, blockchain projects that are worth watching. The educational information on this list is (probably) highly subjective, contains mistakes, misspells, biased opinions and other bingo-BS.
 
+- Algo.: Algorithm (consensus / hashing)
 - SoV: Store of Value
 - MoE: Medium of Exchnage
 - PoW: Proof of Work
@@ -11,7 +12,7 @@ The List contains interesting, open-source, blockchain projects that are worth w
 - Self-upg.: Self upgrading (via governance)
 - Comp.: Computer
 
-| Project | Link | Group | Class | Algorithm | Score |
+| Project | Link | Group | Class | Algo. | Score |
 |---------|-------|-------|--------|--------|----------|
 | Bitcoin | [Website](https://www.bitcoin.org/) | Money | SoV | | 7/10: Dumb PoW, weak distribution, no unique use-case | 
 | Vertcoin | [Website](https://vertcoin.org/) | Money | MoE | | 7/10: Dumd PoW, somewhat outdated, no unique use-case |
@@ -44,28 +45,28 @@ The List contains interesting, open-source, blockchain projects that are worth w
 | Ren | [Website]() | DeFi | | |
 | Melon | [Website]() | DeFi | | |
 | Zen protocol | [Website]() | DeFi | | |
-| Aave | Website]() | DeFi | | |
-| Loopring | Website]() | DeFi | | |
-| Band | Website]() | DeFi | | |
-| Terra | Website]() | DeFi | | |
-| Ampl | Website]() | DeFi | | |
-| Akropolis | Website]() | DeFi | | |
-| Yam | Website]() | DeFi | | |
-| Serum | Website]() | DeFi | | |
-| Gnosis | Website]() | DeFi | | |
-| Thorchain | Website]() | DeFi | | |
-| Statera* | Website]() | DeFi | | |
-| Deus* | Website]() | DeFi | | |
-| Linear* | Website]() | DeFi | | |
-| Pickle* | Website]() | DeFi | | |
-| Sushi* | Website]() | DeFi | | |
-| Xamp | Website]() | DeFi | | |
-| Aleph | Website]() | DeFi | | |
-| Jrt | Website]() | DeFi | | |
-| Decred* | Governace | []() | | | |
-| Aragon | []() | | | |
-| Kleros | []() | | | |
-| Anj | []() | | | |
+| Aave | [Website]() | DeFi | | |
+| Loopring | [Website]() | DeFi | | |
+| Band | [Website]() | DeFi | | |
+| Terra | [Website]() | DeFi | | |
+| Ampl | [Website]() | DeFi | | |
+| Akropolis | [Website]() | DeFi | | |
+| Yam | [Website]() | DeFi | | |
+| Serum | [Website]() | DeFi | | |
+| Gnosis | [Website]() | DeFi | | |
+| Thorchain | [Website]() | DeFi | | |
+| Statera* | [Website]() | DeFi | | |
+| Deus* | [Website]() | DeFi | | |
+| Linear* | [Website]() | DeFi | | |
+| Pickle* | [Website]() | DeFi | | |
+| Sushi* | [Website]() | DeFi | | |
+| Xamp | [Website]() | DeFi | | |
+| Aleph | [Website]() | DeFi | | |
+| Jrt | [Website]() | DeFi | | |
+| Decred* | [Website]() |Governace | | | |
+| Aragon | [Website]() | Governace | | |
+| Kleros | [Website]() | Governace | | |
+| Anj | [Website]() | Governace | | |
 | Filecoin | storage | []() | | | |
 | Maid | storage | []() | | | |
 | Sia | storage | []() | | | |
