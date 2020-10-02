@@ -86,7 +86,7 @@ The List contains interesting, open-source, blockchain projects that are worth w
 | QRL | Quantum R | []() | | | |
 | Ergo* | []() | Computation | | |
 | Golem | []() | Business | | |
-| Handshake | []() | Business | Decentralized Name Service | |
+| Handshake | []() | Business | DNS | |
 | Cyber | Search | []() | | | |
 | Urbit | IT | []() | | | |
 | District0x | Marketplace | []() | | | |
