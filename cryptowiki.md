@@ -57,6 +57,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Loan scan](https://loanscan.io/): Loan scan
 - [Luna crush](https://lunarcrush.com): Social network comparison
 - [Messari](https://messari.io): A lot of useful metrics
+- [Onchain FX](https://onchainfx.com/sector/currencies): Another comparison table
 - [Pools FYI](https://pools.fyi/): ETH pool comparison
 - [Staking rewards](https://www.stakingrewards.com/earn/cosmos): Staking metrics comparison
 - [Token Viz](https://tokenviz.io/): Vizualizing token sets
