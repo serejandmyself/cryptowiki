@@ -230,6 +230,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Code with Us](https://cosmos.network/series/code-with-us): Learn to code blockchains
 - [CosmWasm Vimeo account](https://vimeo.com/user109497220): Learn CosmWasm
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
+- [DeFi handbook](https://defihandbook.cc/): Self-explanatory
 - [DNT educational portal](https://education.district0x.io/general-topics/): Learn about blockchain and ETH
 - [Berkley courses](https://blockchain.berkeley.edu/courses/): Does what it says
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai): A curated list of Blockchain projects for AI & ML
