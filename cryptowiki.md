@@ -49,6 +49,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Cryptocurrency predictions](https://cryptocurrencypriceprediction.com/): For fun
 - [Crypto fear and greed index](https://alternative.me/): Exactly what it says it is
 - [Crypto interest rates](https://docs.google.com/spreadsheets/d/1Y5HONAIHQs2ZlliF-MCkIfdeRhzOu6ZSWJov0NjmhSo/edit#gid=1534349931): A Google comparison table
+- [DeFi handbook](https://defihandbook.cc/): A set of tools and explanations 
 - [DeFi pulse](https://defipulse.com/): Self explanatory
 - [DeFi Score](https://app.defiscore.io): Self explanatory
 - [DEX tools](https://www.dextools.io): Does what it says
@@ -230,7 +231,6 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Code with Us](https://cosmos.network/series/code-with-us): Learn to code blockchains
 - [CosmWasm Vimeo account](https://vimeo.com/user109497220): Learn CosmWasm
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
-- [DeFi handbook](https://defihandbook.cc/): Self-explanatory
 - [DNT educational portal](https://education.district0x.io/general-topics/): Learn about blockchain and ETH
 - [Berkley courses](https://blockchain.berkeley.edu/courses/): Does what it says
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai): A curated list of Blockchain projects for AI & ML
