@@ -106,6 +106,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [IPFS blog](https://blog.ipfs.io/): IPFS 
 - [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
 - [Placeholder](https://www.placeholder.vc/): A web3 VC blog
+- [The Bitcoin Magazine](https://bitcoinmagazine.com/): About BTC primarily, but by far, not limited too
 - [Unenumerated](https://unenumerated.blogspot.com/): Nick Szabo's blog
 - [Vitaliks blog](https://waitwho.is/vitalikbuterin/essays): Just is
 - [Web3 foundation blog](https://medium.com/web3foundation): Web3 foundation blog
