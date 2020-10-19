@@ -74,12 +74,14 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [3 commas](https://3commas.io/): Crypto trading with a shoulder without KYC
 - [Aave](https://app.aave.com/home): Lending and borrowing ETH and tokens
 - [Airswap](https://www.airswap.io/): ETH ecosystem trading OTC 
+- [Beringwaters](https://www.beringwaters.com/): OTC broker
 - [Binance](https://www.binance.com/en): Don't hate me for it, but its true 
 - [Bitpapa](https://bitpapa.com/): Excnahge BTC and ETH 
 - [Bitzlato](https://bitzlato.com): Exchange BTC and other currencies
 - [BTC chnage bot](https://t.me/BTC_CHANGE_BOT): Telegram P2P BTC change bot
 - [Cryptolocator](https://cryptolocator.com/en/): Another P2P exchange
 - [Garantex](https://garantex.io/): Interface only in Russian 
+- [GSR](https://www.gsr.io): OTC broker for large sums
 - [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS 
 - [Liquality](https://liquality.io/swap/): Cross chain crypto swap 
 - [Local Bitcoin](https://localbitcoins.net/): Self-explanantory
