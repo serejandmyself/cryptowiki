@@ -49,6 +49,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Cryptocurrency predictions](https://cryptocurrencypriceprediction.com/): For fun
 - [Crypto fear and greed index](https://alternative.me/): Exactly what it says it is
 - [Crypto interest rates](https://docs.google.com/spreadsheets/d/1Y5HONAIHQs2ZlliF-MCkIfdeRhzOu6ZSWJov0NjmhSo/edit#gid=1534349931): A Google comparison table
+- [Decentralized Finance tools](https://app.intotheblock.com/insights/defi): Super useful stats
 - [DeFi handbook](https://defihandbook.cc/): A set of tools and explanations 
 - [DeFi pulse](https://defipulse.com/): Self explanatory
 - [DeFi Score](https://app.defiscore.io): Self explanatory
