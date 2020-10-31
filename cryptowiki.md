@@ -53,6 +53,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [DeFi handbook](https://defihandbook.cc/): A set of tools and explanations 
 - [DeFi pulse](https://defipulse.com/): Self explanatory
 - [DeFi Score](https://app.defiscore.io): Self explanatory
+- [DEX index](https://dexindex.io/): Best dex price calculator
 - [DEX tools](https://www.dextools.io): Does what it says
 - [ETH gas station](https://www.ethgasstation.info/): Gas metrics on ETH
 - [Idle Finance](https://idle.finance/#/): Good for comparing strategies
@@ -61,8 +62,11 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Messari](https://messari.io): A lot of useful metrics
 - [Onchain FX](https://onchainfx.com/sector/currencies): Another comparison table
 - [Pools FYI](https://pools.fyi/): ETH pool comparison
+- [Santiment](https://graphs.santiment.net/makerdao): Graphs
 - [Staking rewards](https://www.stakingrewards.com/earn/cosmos): Staking metrics comparison
 - [Token Viz](https://tokenviz.io/): Vizualizing token sets
+- [UniswapROI](https://www.uniswaproi.com/#):ROI calculator
+- [Uniswap Vision](https://uniswap.vision/?ticker=UniswapV2:JRTETH&interval=1D): Amazing uniswap charts
 
 #### Tools that need building
 - [DeFi tokens wiki](https://github.com/defi-wikis/defi-tokens-wiki): Metadata on all DeFi tokens 
