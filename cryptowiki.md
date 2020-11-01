@@ -31,7 +31,9 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 #### Charts
 
 - [Bitcoin dominance chart](https://bitcoindominance.com/): Dominance in terms of 'money' coins only
-- [Ether Schtroumpf Money](https://www.etherschtroumpf.money/): One of the most important crypto charts
+- [Ether Schtroumpf Money](https://www.etherschtroumpf.money/): One of the most important crypto charts (BTC/ALTs market ratio)
+- [The Block Crypto](https://www.theblockcrypto.com/data/on-chain-metrics/flows): Global ETH/BTC/Flow charts
+- [Token Terminal](https://www.tokenterminal.com/): On-chain annualized fees
 - [Trading View](https://www.tradingview.com): A lot of charts
 - [Woobull charts](https://charts.woobull.com): Crazy, useful BTC and market charts
 
@@ -55,7 +57,9 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [DeFi Score](https://app.defiscore.io): Self explanatory
 - [DEX index](https://dexindex.io/): Best dex price calculator
 - [DEX tools](https://www.dextools.io): Does what it says
+- [Dune Analytics](https://duneanalytics.com/): Useful community charts
 - [ETH gas station](https://www.ethgasstation.info/): Gas metrics on ETH
+- [ETH 2.0 calulator](https://ethereumprice.org/eth-2-calculator/): Staking calculator
 - [Idle Finance](https://idle.finance/#/): Good for comparing strategies
 - [Loan scan](https://loanscan.io/): Loan scan
 - [Luna crush](https://lunarcrush.com): Social network comparison
@@ -91,25 +95,30 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Liquality](https://liquality.io/swap/): Cross chain crypto swap 
 - [Local Bitcoin](https://localbitcoins.net/): Self-explanantory
 - [Local coinswap](https://localcoinswap.com/offers/): Another local swap for coins 
-- [Monabey](https://monabey.com/): Only Russian interface 
+- [Monabey](https://monabey.com/): Only Russian interface
+- [Oneswap](https://www.oneswap.net/eth/swap): Swap and trade ETH-based tokens
 - [Paraswap](https://paraswap.io/#/): ETH ecosystem swaps
 - [Paxful](https://paxful.com): Buy and sell BTC
 - [Sky crypto](https://sky-crypto.com/): Exchange BTC and ETH
 - [StealthEX](https://stealthex.io/): Swap currencies
 - [Swapzone](https://swapzone.io/): Exchnage aggregator that allows to swap
-- [Totalocin](https://totalcoin.io): Exchange crypto
+- [Total Coin](https://totalcoin.io): Exchange crypto
 - [Uniswap](https://app.uniswap.org/#/swap): Self-explanatory
+- [Zapper](https://zapper.fi/): Manage, trade, invest ETH-based tokens
 
 ### Social
 
 #### Blogs +
 
 - [Anton Kalievs blog](https://medium.com/@anton.kalyaev): Anton Kalievs blog, ex Tendermint
+- [Coinmetrics](https://coinmetrics.substack.com/): Useful metrics in a blog
 - [Cosmos engineering](https://cosmos.network/newsletters/engineering/2020-08/): Cosmos tools engineering newsletter
 - [Cosmos Network blog](https://blog.cosmos.network/): A blog about the Cosmos ecosystem and web3 tech
 - [Ether foundation blog](https://blog.ethereum.org/): Ether foundation
+- [Electric Capital](https://medium.com/electric-capital): Some deep market analysis
 - [Fluence Network blog](https://medium.com/fluence-network): Fluence Network web3 blog
 - [Interchain foundation blog](https://blog.cosmos.network/@interchain_io): Interchain foundation blog
+- [Intotheblock](https://medium.com/intotheblock/newsletter/home): Weekly insights
 - [IPFS blog](https://blog.ipfs.io/): IPFS 
 - [Matter Labs blog](https://medium.com/matter-labs): Matter Labs blog
 - [Placeholder](https://www.placeholder.vc/): A web3 VC blog
@@ -189,6 +198,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [@lopp](https://twitter.com/lopp): Cypherpunk
 - [@maxkeiser](https://twitter.com/maxkeiser): Self-explanatory
 - [@mdfang](https://twitter.com/mdfang): Urbit
+- [@mikoserb](https://twitter.com/mikoserb): Crypto trading
 - [@musalbas](https://twitter.com/musalbas): Co-founder LazyLedger
 - [@MustStopMurad](https://twitter.com/MustStopMurad): Bitcoin charts
 - [@My_Altcoins](https://twitter.com/My_Altcoins): All things altcoins
