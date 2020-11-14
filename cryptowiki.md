@@ -91,6 +91,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Cryptolocator](https://cryptolocator.com/en/): Another P2P exchange
 - [Garantex](https://garantex.io/): Interface only in Russian 
 - [GSR](https://www.gsr.io): OTC broker for large sums
+- [InstaEx](https://instaex.io): Instant Cryptocurrency exchange
 - [KYC not me](https://kycnot.me/): A collection of services and exchanges without BS 
 - [Liquality](https://liquality.io/swap/): Cross chain crypto swap 
 - [Local Bitcoin](https://localbitcoins.net/): Self-explanantory
