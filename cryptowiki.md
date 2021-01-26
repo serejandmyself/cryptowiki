@@ -247,6 +247,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Awesome blockchain](https://github.com/imbaniac/awesome-blockchain): Curated list of blockchain services and exchanges
 - [Awesome ETH](https://github.com/ttumiel/Awesome-Ethereum): A Curated List of Awesome Ethereum Resources 
 - [Binance academy](https://academy.binance.com/): Surprisingly mega underated
+- [Bitrawr](https://www.bitrawr.com/): Bitcoin exchange repository
 - [Code with Us](https://cosmos.network/series/code-with-us): Learn to code blockchains
 - [CosmWasm Vimeo account](https://vimeo.com/user109497220): Learn CosmWasm
 - [Crypto Testers](https://cryptotesters.com/): Find the best crypto products
@@ -267,7 +268,7 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Proto School](https://proto.school/#/tutorials/): IPFS school
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
-- [Zero knowledge proofs wiki](https://github.com/matter-labs/awesome-zero-knowledge-proofs): A curated list of awesome things related to ZKP 
+- [Zero knowledge proofs wiki](https://github.com/matter-labs/awesome-zero-knowledge-proofs): A curated list of awesome things related to ZKP
 
 ### Other
 
