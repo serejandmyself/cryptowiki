@@ -267,7 +267,8 @@ Do you own due diligence. Not financial advice. I don't really know what I'm doi
 - [Proto School](https://proto.school/#/tutorials/): IPFS school
 - [Simple Water](https://simpleaswater.com): One of the most useful learning sites for web3
 - [Token Brice](https://tokenbrice.xyz/): A lot of useful DeFi and crypo info
-- [Zero knowledge proofs wiki](https://github.com/matter-labs/awesome-zero-knowledge-proofs): A curated list of awesome things related to ZKP 
+- [Zero knowledge proofs wiki](https://github.com/matter-labs/awesome-zero-knowledge-proofs): A curated list of awesome things related to ZKP
+- [Bitrawr](https://www.bitrawr.com/): Bitcoin exchange repository
 
 ### Other
 
